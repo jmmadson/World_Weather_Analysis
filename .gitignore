@@ -1,3 +1,13 @@
+# Adding config.py file.
+config.py
+
+# Adding other files.
+API_practice.ipynb
+random_numbers.ipynb
+Untitled.ipynb
+__pycache__
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -100,6 +110,9 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
+
+# Adding config.py file.
+config.py
 
 # Environments
 .env
