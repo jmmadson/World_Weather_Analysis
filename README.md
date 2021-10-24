@@ -1,6 +1,6 @@
 # World Weather Analysis
 
-##Summary
+## Summary
 
 For this project we were challenged to come up with an application to allow travellers to choose a vacation destination based on their desired weather. We worked with multiple APIs to complete this project including: Open Weather Map, Google Maps, Google Places and Google Destination APIs. 
 
